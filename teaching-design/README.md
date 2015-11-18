@@ -1,1 +1,8 @@
-# Teaching Design
+# First Writing Assignment Description: 1001 Words for an Argument
+    This assignment was designed for the HIST301 Teaching Course from the History Department. I crafted this assignment for a first year history course on: *Entagled Histories: The United States and the Middle East from the 19th Century to the Present*
+
+“First Writing Assignment: This assignment requires student to write a ‘1001’ words response essays to a prompt to be posted later in the course.  Students will be asked to write a 500 word essay.  Then the students will have to reduce their argument to 250 words, a 100 words, 50 words, and finally 1 word. The purpose of this assignment is to encourage students to be concise in not only their writing, but also their conceptualization of their argument.  Once all assignments are returned, the class will collectively create a digital word map and discuss the results.”
+
+In this assignment, I will provide students with a prompt, such as “why did the Unites States decide to support Israel in 1948?” or “could have the United States been more proactive in creating a peaceful solution to the Israeli-Arab conflict?”  The students would then be required to craft their argument, drawing from readings and seminar discussions.  The first essay would be 500 words in length.  To help the students clarify the exact essentials of their argument, the assignment then forces them to reduce their argument to 250 words, 100 words, 50 words, and finally 1 word.  
+
+The goal of this exercise is to assist students in crafting a clear and condensed argument, eventually distilling the essence of their position in one word.  Academic writing conventions often allow students to be imprecise in their thesis and exact meaning.  This assignment forces to students to express their argument in the most conceptually clear way possible.  As stated above, the final result will be a word map created as a class.
